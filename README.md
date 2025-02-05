@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning another language
 - 📫 How to reach me through anime and strategy games
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am very connected to languages, history and cultures
 
 <!---
