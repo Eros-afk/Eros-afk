@@ -1,11 +1,9 @@
 ````markdown
-<div align="center">
 
 # ╔════════════════════════════════════════╗  
 # ║    🖥️ EROS RYAN SIMETTE                ║  
 # ╚════════════════════════════════════════╝  
 
-```diff
 10 PRINT "Olá, eu sou Eros Ryan Simette!"
 20 PRINT "Entusiasta da computação desde os old até os gold."
 30 PRINT "Curso Engenharia da Computação na UFC."
