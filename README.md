@@ -1,10 +1,9 @@
-#  ╔════════════════════════════════════════╗  
-#  ║    🖥️ EROS RYAN SIMETTE                ║  
-#  ╚════════════════════════════════════════╝  
+````markdown
+<div align="center">
 
-<p align="center">
-  <img src="https://i.imgur.com/JxL5Q0T.gif" alt="Old PC" width="300">  
-</p>
+# ╔════════════════════════════════════════╗  
+# ║    🖥️ EROS RYAN SIMETTE                ║  
+# ╚════════════════════════════════════════╝  
 
 ```diff
 10 PRINT "Olá, eu sou Eros Ryan Simette!"
@@ -12,21 +11,49 @@
 30 PRINT "Curso Engenharia da Computação na UFC."
 40 PRINT "Amo linguagens de baixo nível e explorar bancos de dados."
 50 GOTO 10
+````
 
+```asm
 MOV EAX, [LOW-LEVEL]  
 MOV EBX, [DATABASES]  
 MOV ECX, [HARDWARE]  
+```
 
-🔹 Assembly (Não aprendido)  |  🔹 C/C++ (Aprendendo++  |  🔹 Rust (Aprender)  
-🔹 SQL (Aprendendo)      |  🔹 NoSQL (Aprendendo)  |  🔹 Embedded Systems (Aprender)
+---
 
+## 💾 Habilidades & Interesses
+
+```
+🔹 Assembly ........... [🕒 Em breve]  
+🔹 C/C++ .............. [📚 Aprendendo++]  
+🔹 Rust ............... [🔜 Pretendo aprender]  
+🔹 SQL ................ [📘 Estudando]  
+🔹 NoSQL .............. [📘 Estudando]  
+🔹 Sistemas embarcados [🔜 Pretendo aprender]
+```
+
+---
+
+```pascal
 program UFC;
 begin
   Writeln('🎓 Bacharelado em Engenharia da Computação');
   Writeln('🏛 Universidade Federal do Ceará (UFC)');
   Writeln('📅 2023 - Presente');
 end.
+```
 
-📧 E-mail: erosryansimette@alu.ufc.b  
-💾 GitHub: (https://github.com/Eros-afk)  
-📟 LinkedIn: 
+---
+
+### 📡 Contato
+
+* 📧 **E-mail**: [erosryansimette@alu.ufc.br](mailto:erosryansimette@alu.ufc.br)
+* 💾 **GitHub**: [Eros-afk](https://github.com/Eros-afk)
+* 📟 **LinkedIn**: []()
+
+---
+
+![Retro Badge](https://img.shields.io/badge/RETRO%20MODE-ACTIVE-ff69b4?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Eros-afk\&color=blue\&style=flat-square)
+
+</div>
