@@ -42,7 +42,7 @@ MOV ECX, [HARDWARE]
 🔹 Rust ............... [🔜 Pretendo aprender]  
 🔹 SQL ................ [📘 Estudando]  
 🔹 NoSQL .............. [📘 Estudando]  
-🔹 Sistemas embarcados [🔜 Pretendo aprender]
+🔹 Sistemas embarcados  [🔜 Pretendo aprender]
 ```
 
 ---
