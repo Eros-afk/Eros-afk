@@ -7,9 +7,9 @@
 
 ```text
 ┌───────────────────────────────────────────────────────────────┐
-│  BOOTING SYSTEM...                                             │
-│  USER: EROS_RYAN_SIMETTE                                       │
-│  STATUS: ONLINE                                                │
+│  BOOTING SYSTEM...                                            │
+│  USER: EROS_RYAN_SIMETTE                                      │
+│  STATUS: ONLINE                                               │
 └───────────────────────────────────────────────────────────────┘
 ````
 
@@ -70,8 +70,6 @@ EMAIL    : erosryansimette@alu.ufc.br
 GITHUB   : github.com/Eros-afk
 LINKEDIN : [OFFLINE]
 ```
-
----
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJzM3I4Z3Bsb2dhcW1qOHJzejJ2bTJiMDM4djExamVxOGFzYWpheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsOLnh6OTU3RR4IXuq/giphy.gif" width="200"/>
