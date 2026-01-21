@@ -2,6 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWcxa3piZW1yZThsOTVnenM4czhzMjMwM2V1NWw1aGxrNGFnNXd3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWE5ioAD0MZsa0E5Eq/giphy.gif" width="400"/>
 </p>
 
+🖥️ WHOAMI
 ```text
 ┌───────────────────────────────────────────────────────────────┐
 │  BOOTING SYSTEM...                                             │
@@ -17,10 +18,18 @@
 
 🖥️ WHOAMI
 10 PRINT "Olá, eu sou Eros Ryan Simette"
-20 PRINT "Entusiasta da computação desde o low-level até dados"
+20 PRINT "Entusiasta da computação"
 30 PRINT "Engenharia da Computação - UFC"
 40 PRINT "Terminal > Interface bonita"
 50 GOTO 10
+
+🎓 ACADEMIC LOG
+program UFC;
+begin
+  Writeln('Bacharelado em Engenharia da Computação');
+  Writeln('Universidade Federal do Ceará');
+  Writeln('2023 - PRESENT');
+end.
 
 ### 🧰 Tech Stack
 
@@ -34,19 +43,10 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRqZXZucDhtMHgxb3ppZnk1OXJobnUzdWhwbGhvZzVpNHBlMHQ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z5hBmhMJVY0WmGKwtt/giphy.gif" width="120"/>
 
-## 🕹️ Retro Mode
+📡 CONTACT 
+EMAIL    : erosryansimette@alu.ufc.br
+GITHUB   : github.com/Eros-afk
+LINKEDIN : [OFFLINE]
 
-```diff
-+ LOW LEVEL
-+ HARDWARE
-+ DATABASES
-- FRAMEWORKS MODINHA
-
-```
-
-
-
-
-
-
-
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJzM3I4Z3Bsb2dhcW1qOHJzejJ2bTJiMDM4djExamVxOGFzYWpheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsOLnh6OTU3RR4IXuq/giphy.gif" width="200"/> </p>
+> Press any key to continue...
