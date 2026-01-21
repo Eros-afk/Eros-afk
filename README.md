@@ -1,72 +1,14 @@
-````markdown
-┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ C:\> HELLO WORLD                                                                                                         │
-│                                                                                                                          │
-│                                                                                                                          |
-│  ___  ___  _______   ___       ___       ________          ___       __   ________  ________  ___       ________         |
-│  |\  \|\  \|\  ___ \ |\  \     |\  \     |\   __  \        |\  \     |\  \|\   __  \|\   __  \|\  \     |\   ___ \       |
-│   \ \  \\\  \ \   __/|\ \  \    \ \  \    \ \  \|\  \       \ \  \    \ \  \ \  \|\  \ \  \|\  \ \  \    \ \  \_|\ \     |
-│    \ \   __  \ \  \_|/_\ \  \    \ \  \    \ \  \\\  \       \ \  \  __\ \  \ \  \\\  \ \   _  _\ \  \    \ \  \ \\ \    |
-│     \ \  \ \  \ \  \_|\ \ \  \____\ \  \____\ \  \\\  \       \ \  \|\__\_\  \ \  \\\  \ \  \\  \\ \  \____\ \  \_\\ \   |
-│      \ \__\ \__\ \_______\ \_______\ \_______\ \_______\       \ \____________\ \_______\ \__\\ _\\ \_______\ \_______\  |
-│       \|__|\|__|\|_______|\|_______|\|_______|\|_______|        \|____________|\|_______|\|__|\|__|\|_______|\|_______|  |                                                                                         |                                                                                                                          |
-│                                                                                                                          |
-│                                                                                                                          │
-│ Press any key to continue...                                                                                             │
-└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWcxa3piZW1yZThsOTVnenM4czhzMjMwM2V1NWw1aGxrNGFnNXd3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWE5ioAD0MZsa0E5Eq/giphy.gif" width="400"/>
+</p>
 
-# ╔════════════════════════════════════════╗  
-# ║    🖥️ EROS RYAN SIMETTE                ║  
-# ╚════════════════════════════════════════╝  
+### 🧰 Tech Stack
 
-10 PRINT "Olá, eu sou Eros Ryan Simette!"
-20 PRINT "Entusiasta da computação desde os old até os gold."
-30 PRINT "Curso Engenharia da Computação na UFC."
-40 PRINT "Amo linguagens de baixo nível e explorar bancos de dados."
-50 GOTO 10
-````
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-```asm
-MOV EAX, [LOW-LEVEL]  
-MOV EBX, [DATABASES]  
-MOV ECX, [HARDWARE]  
-```
-
----
-
-## 💾 Habilidades & Interesses
-
-```
-🔹 Assembly ........... [🕒 Em breve]  
-🔹 C/C++ .............. [📚 Aprendendo++]  
-🔹 Rust ............... [🔜 Pretendo aprender]  
-🔹 SQL ................ [📘 Estudando]  
-🔹 NoSQL .............. [📘 Estudando]  
-🔹 Sistemas embarcados  [🔜 Pretendo aprender]
-```
-
----
-
-```pascal
-program UFC;
-begin
-  Writeln('🎓 Bacharelado em Engenharia da Computação');
-  Writeln('🏛 Universidade Federal do Ceará (UFC)');
-  Writeln('📅 2023 - Presente');
-end.
-```
-
----
-
-### 📡 Contato
-
-* 📧 **E-mail**: [erosryansimette@alu.ufc.br](mailto:erosryansimette@alu.ufc.br)
-* 💾 **GitHub**: [Eros-afk](https://github.com/Eros-afk)
-* 📟 **LinkedIn**: []()
-
----
-
-![Retro Badge](https://img.shields.io/badge/RETRO%20MODE-ACTIVE-ff69b4?style=for-the-badge\&logo=apachespark\&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Eros-afk\&color=blue\&style=flat-square)
-
-</div>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRqZXZucDhtMHgxb3ppZnk1OXJobnUzdWhwbGhvZzVpNHBlMHQ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z5hBmhMJVY0WmGKwtt/giphy.gif" width="120"/>
