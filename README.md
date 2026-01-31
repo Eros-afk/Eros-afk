@@ -41,7 +41,7 @@ end.
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust"/>
+<!--<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust"/>-->
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
