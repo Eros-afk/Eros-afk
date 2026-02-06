@@ -65,6 +65,7 @@ EMAIL    : erosryansimette@alu.ufc.br
 GITHUB   : github.com/Eros-afk
 LINKEDIN : [OFFLINE]
 ```
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36152">
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJzM3I4Z3Bsb2dhcW1qOHJzejJ2bTJiMDM4djExamVxOGFzYWpheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsOLnh6OTU3RR4IXuq/giphy.gif" width="200"/>
