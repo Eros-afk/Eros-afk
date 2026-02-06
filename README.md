@@ -15,10 +15,12 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eros-afk&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eros-afk&layout=compact&theme=gruvbox&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eros-afk&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eros-afk&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
@@ -41,7 +43,6 @@ end.
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<!--<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust"/>-->
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -51,7 +52,7 @@ end.
 
 ---
 
-<p align="leaft">
+<p align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRqZXZucDhtMHgxb3ppZnk1OXJobnUzdWhwbGhvZzVpNHBlMHQ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z5hBmhMJVY0WmGKwtt/giphy.gif" width="120"/>
 </p>
 
